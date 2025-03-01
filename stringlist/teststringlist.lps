@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="teststringlist.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="114"/>
+        <CursorPos X="11" Y="119"/>
+        <UsageCount Value="40"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="854"/>
+        <CursorPos X="6" Y="854"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/objpas/classes/stringl.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="2122"/>
+        <CursorPos X="27" Y="2122"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="8">
+      <Position>
+        <Filename Value="teststringlist.lpr"/>
+        <Caret Line="62" Column="14" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="816" Column="3" TopLine="807"/>
+      </Position>
+      <Position>
+        <Filename Value="teststringlist.lpr"/>
+        <Caret Line="53" Column="7" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="teststringlist.lpr"/>
+        <Caret Line="42" Column="17" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="teststringlist.lpr"/>
+        <Caret Line="87" Column="21" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="865" Column="27" TopLine="853"/>
+      </Position>
+      <Position>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="833" Column="15" TopLine="833"/>
+      </Position>
+      <Position>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/objpas/classes/stringl.inc"/>
+        <Caret Line="1789" Column="3" TopLine="1786"/>
+      </Position>
+      <Position>
+        <Filename Value="/usr/share/fpcsrc/3.2.2/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="862" TopLine="853"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

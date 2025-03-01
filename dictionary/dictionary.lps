@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="dictionary.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="dictionary_main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="83"/>
+        <CursorPos X="18" Y="84"/>
+        <UsageCount Value="20"/>
+        <Bookmarks Count="1">
+          <Item0 Y="125" Left="1" Top="119" ID="1"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/lazarus/4.0.0/lcl/stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="734"/>
+        <CursorPos X="14" Y="709"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="27">
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="83" Column="3" TopLine="74"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="130" Column="3" TopLine="121"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="162" TopLine="143"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="77" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="161" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="149" Column="3" TopLine="144"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="77" Column="3" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="136" Column="25" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="165" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="138" Column="47" TopLine="122"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="79" Column="12" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="139" TopLine="134"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="137" TopLine="122"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="81" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="146" TopLine="140"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="41" Column="21" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="63" TopLine="59"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="65" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="89" Column="3" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="93" Column="5" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="176" TopLine="165"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="68" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="129" Column="7" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="111" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="107" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="115" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="84" Column="11" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="dictionary_main.pas"/>
+        <Caret Line="196" TopLine="180"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
