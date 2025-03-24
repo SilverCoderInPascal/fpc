@@ -1,0 +1,112 @@
+object Form1: TForm1
+  Left = 342
+  Height = 505
+  Top = 250
+  Width = 613
+  Caption = 'Form1'
+  ClientHeight = 505
+  ClientWidth = 613
+  Color = clSkyBlue
+  OnCreate = FormCreate
+  object Panel1: TPanel
+    Left = 0
+    Height = 455
+    Top = 50
+    Width = 613
+    Align = alClient
+    ClientHeight = 455
+    ClientWidth = 613
+    Color = clWindow
+    ParentBackground = False
+    ParentColor = False
+    TabOrder = 0
+    OnPaint = Panel1Paint
+    object LocationLabel: TLabel
+      Left = 0
+      Height = 16
+      Top = 96
+      Width = 614
+      Alignment = taCenter
+      AutoSize = False
+      Caption = 'LocationLabel'
+      ParentColor = False
+    end
+    object Image1: TImage
+      Left = 275
+      Height = 64
+      Top = 16
+      Width = 64
+    end
+    object WeatherLabel: TLabel
+      Left = 0
+      Height = 16
+      Top = 128
+      Width = 614
+      Alignment = taCenter
+      AutoSize = False
+      Caption = 'WeatherLabel'
+    end
+    object Chart1: TChart
+      Left = 1
+      Height = 215
+      Top = 239
+      Width = 611
+      AxisList = <      
+        item
+          Grid.Mode = pmMerge
+          Grid.Style = psClear
+          Marks.LabelBrush.Style = bsClear
+          Minors = <>
+          Title.LabelFont.Orientation = 900
+          Title.LabelBrush.Style = bsClear
+        end      
+        item
+          Alignment = calBottom
+          Marks.LabelBrush.Style = bsClear
+          Minors = <>
+          Title.LabelBrush.Style = bsClear
+        end>
+      Frame.Style = psClear
+      Title.Text.Strings = (
+        'TAChart'
+      )
+      Align = alBottom
+      Color = clWindow
+    end
+  end
+  object TopPanel: TPanel
+    Left = 0
+    Height = 50
+    Top = 0
+    Width = 613
+    Align = alTop
+    BevelOuter = bvNone
+    ClientHeight = 50
+    ClientWidth = 613
+    ParentBackground = False
+    TabOrder = 1
+    object Button2: TButton
+      Left = 168
+      Height = 25
+      Top = 16
+      Width = 154
+      Caption = 'Forecast Weather'
+      TabOrder = 0
+      OnClick = Button2Click
+    end
+    object Button1: TButton
+      Left = 8
+      Height = 25
+      Top = 16
+      Width = 152
+      Caption = 'Current Weather'
+      TabOrder = 1
+      OnClick = Button1Click
+    end
+  end
+  object OpenDialog1: TOpenDialog
+    FileName = 'filename.txt'
+    Left = 526
+    Top = 103
+  end
+end

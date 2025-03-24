@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="weatherapp.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="9" Y="20"/>
+        <UsageCount Value="219"/>
+      </Unit>
+      <Unit>
+        <Filename Value="mainform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainForm"/>
+        <TopLine Value="78"/>
+        <CursorPos X="84" Y="121"/>
+        <UsageCount Value="219"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitapikey.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitApiKey"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="11" Y="5"/>
+        <UsageCount Value="219"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unithttpclient.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitHttpClient"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="10" Y="10"/>
+        <UsageCount Value="206"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitweatherdata.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitWeatherData"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="16"/>
+        <UsageCount Value="206"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitweatherapi.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unitWeatherApi"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="69"/>
+        <CursorPos Y="70"/>
+        <UsageCount Value="206"/>
+        <Bookmarks Count="1">
+          <Item0 X="33" Y="174" Left="1" Top="155" ID="1"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Downloads/fpcupdeluxe/fpcsrc/packages/fcl-web/src/base/fphttpclient.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1145"/>
+        <CursorPos X="3" Y="1164"/>
+        <UsageCount Value="73"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Downloads/fpcupdeluxe/fpcsrc/packages/fcl-json/src/fpjson.pp"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="153"/>
+        <CursorPos X="14" Y="162"/>
+        <UsageCount Value="82"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Downloads/fpcupdeluxe/fpcsrc/rtl/objpas/sysutils/sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="224"/>
+        <CursorPos X="68" Y="231"/>
+        <UsageCount Value="46"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Downloads/fpcupdeluxe/fpcsrc/packages/fcl-base/src/contnrs.pp"/>
+        <UnitName Value="Contnrs"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="48"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Downloads/fpcupdeluxe/lazarus/lcl/stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1596"/>
+        <CursorPos X="3" Y="1556"/>
+        <UsageCount Value="46"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Downloads/fpcupdeluxe/lazarus/components/lazutils/lazlogger.pas"/>
+        <UnitName Value="LazLogger"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="14" Y="26"/>
+        <UsageCount Value="33"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Downloads/fpcupdeluxe/lazarus/components/lazutils/LazLoggerIntf.inc"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="33"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Downloads/fpcupdeluxe/lazarus/components/lazutils/LazLoggerImpl.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="23"/>
+        <CursorPos Y="23"/>
+        <UsageCount Value="33"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Downloads/fpcupdeluxe/lazarus/components/lazutils/lazloggerbase.pas"/>
+        <UnitName Value="LazLoggerBase"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="705"/>
+        <CursorPos X="3" Y="715"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Downloads/fpcupdeluxe/lazarus/components/lazutils/lazclasses.pas"/>
+        <UnitName Value="LazClasses"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="96"/>
+        <CursorPos Y="98"/>
+        <UsageCount Value="20"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="14">
+      <Position>
+        <Filename Value="unitweatherapi.pas"/>
+        <Caret Line="115" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="unitweatherapi.pas"/>
+        <Caret Line="115" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="unitweatherapi.pas"/>
+        <Caret Line="113" Column="14" TopLine="60"/>
+      </Position>
+      <Position>
+        <Filename Value="unitweatherapi.pas"/>
+        <Caret Line="113" Column="14" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="unitweatherapi.pas"/>
+        <Caret Line="163" TopLine="143"/>
+      </Position>
+      <Position>
+        <Filename Value="unitweatherapi.pas"/>
+        <Caret Line="166" Column="41" TopLine="152"/>
+      </Position>
+      <Position>
+        <Filename Value="unitweatherapi.pas"/>
+        <Caret Line="21" Column="14" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="unitweatherapi.pas"/>
+        <Caret Line="124" TopLine="115"/>
+      </Position>
+      <Position>
+        <Filename Value="unitweatherapi.pas"/>
+        <Caret Line="172" Column="9" TopLine="154"/>
+      </Position>
+      <Position>
+        <Filename Value="unitweatherapi.pas"/>
+        <Caret Line="123" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="unitweatherapi.pas"/>
+        <Caret Line="172" Column="43" TopLine="156"/>
+      </Position>
+      <Position>
+        <Filename Value="unitweatherdata.pas"/>
+        <Caret Line="119" Column="3" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="79" Column="12" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="unitweatherapi.pas"/>
+        <Caret Line="69" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="unitweatherapi.pas"/>
+        <Caret Line="72" Column="25" TopLine="59"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="weatherapp.lpr"/>
+        <Line Value="34"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="unitweatherapi.pas"/>
+        <Line Value="178"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="unitweatherapi.pas"/>
+        <Line Value="70"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
