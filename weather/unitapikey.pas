@@ -5,7 +5,7 @@ unit unitApiKey;
 interface
 
 const
-  WeatherApiKey = '67173ae1253e43ad96092335251103';
+  WeatherApiKey = 'xxxxxxxxxxx';
 
 implementation
 
