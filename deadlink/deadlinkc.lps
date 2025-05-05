@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="deadlinkc.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="45"/>
+        <CursorPos X="66" Y="50"/>
+        <UsageCount Value="169"/>
+        <Bookmarks Count="1">
+          <Item0 Y="16" Left="1" Top="16" ID="1"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Downloads/fpcupdeluxe/fpcsrc/packages/fcl-base/src/uriparser.pp"/>
+        <UnitName Value="URIParser"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="36"/>
+        <CursorPos X="10" Y="47"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Downloads/fpcupdeluxe/fpcsrc/packages/chm/src/fasthtmlparser.pas"/>
+        <UnitName Value="FastHTMLParser"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="157"/>
+        <CursorPos Y="143"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Downloads/fpcupdeluxe/fpcsrc/packages/fcl-web/src/base/fphttpclient.pp"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="1297"/>
+        <CursorPos X="3" Y="1308"/>
+        <UsageCount Value="52"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Downloads/fpcupdeluxe/fpcsrc/packages/fcl-web/src/base/httpdefs.pp"/>
+        <UnitName Value="HTTPDefs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="292"/>
+        <CursorPos X="14" Y="28"/>
+        <UsageCount Value="50"/>
+      </Unit>
+      <Unit>
+        <Filename Value="fast-html-parser/arrhtmlparser.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="fast-html-parser/fasthtmlparser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="207"/>
+        <CursorPos X="3" Y="200"/>
+        <UsageCount Value="144"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="fast-html-parser/htmtool.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="16"/>
+        <CursorPos X="15" Y="5"/>
+        <UsageCount Value="144"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="fast-html-parser/htmutils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="HtmUtils"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="4"/>
+        <CursorPos X="10" Y="15"/>
+        <UsageCount Value="144"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../Downloads/fpcupdeluxe/fpcsrc/packages/fcl-base/src/contnrs.pp"/>
+        <UnitName Value="Contnrs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="47"/>
+        <CursorPos X="3" Y="31"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uwebpagelinks.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uWebpagelinks"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="92"/>
+        <CursorPos X="83" Y="107"/>
+        <UsageCount Value="95"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uwebpagescanner.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uWebPageScanner"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="43"/>
+        <CursorPos X="5" Y="57"/>
+        <UsageCount Value="95"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="uwebpagelinks.pas"/>
+        <Caret Line="39" Column="14" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagelinks.pas"/>
+        <Caret Line="122" Column="3" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagelinks.pas"/>
+        <Caret Line="32" Column="15" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagescanner.pas"/>
+        <Caret Line="92" Column="33" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="deadlinkc.lpr"/>
+        <Caret Line="17" Column="37" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagelinks.pas"/>
+        <Caret Line="103" Column="3" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagelinks.pas"/>
+        <Caret Line="9" Column="23"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagelinks.pas"/>
+        <Caret Line="128" Column="14" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="fast-html-parser/fasthtmlparser.pas"/>
+        <Caret Line="98" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagelinks.pas"/>
+        <Caret Line="92" Column="80" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagescanner.pas"/>
+        <Caret Line="103" Column="39" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagelinks.pas"/>
+        <Caret Line="93" Column="13" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="deadlinkc.lpr"/>
+        <Caret Line="7" Column="16" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagescanner.pas"/>
+        <Caret Line="82" Column="13" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Downloads/fpcupdeluxe/fpcsrc/packages/fcl-web/src/base/fphttpclient.pp"/>
+        <Caret Line="257" TopLine="248"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Downloads/fpcupdeluxe/fpcsrc/packages/fcl-web/src/base/fphttpclient.pp"/>
+        <Caret Line="2049" Column="3" TopLine="2045"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Downloads/fpcupdeluxe/fpcsrc/packages/fcl-web/src/base/fphttpclient.pp"/>
+        <Caret Line="186" Column="15" TopLine="177"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Downloads/fpcupdeluxe/fpcsrc/packages/fcl-web/src/base/fphttpclient.pp"/>
+        <Caret Line="1421" Column="3" TopLine="1431"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Downloads/fpcupdeluxe/fpcsrc/packages/fcl-web/src/base/fphttpclient.pp"/>
+        <Caret Line="161" Column="15" TopLine="152"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../Downloads/fpcupdeluxe/fpcsrc/packages/fcl-web/src/base/fphttpclient.pp"/>
+        <Caret Line="1308" Column="3" TopLine="1297"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagescanner.pas"/>
+        <Caret Line="76" Column="6" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagescanner.pas"/>
+        <Caret Line="14" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagelinks.pas"/>
+        <Caret Line="130" Column="17" TopLine="103"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagelinks.pas"/>
+        <Caret Line="132" Column="44" TopLine="118"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagescanner.pas"/>
+        <Caret Line="119" TopLine="97"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagelinks.pas"/>
+        <Caret Line="16" Column="74" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagescanner.pas"/>
+        <Caret Line="94" Column="81" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagescanner.pas"/>
+        <Caret Line="102" Column="83" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="uwebpagescanner.pas"/>
+        <Caret Line="25" Column="14" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="deadlinkc.lpr"/>
+        <Caret Line="54" Column="9" TopLine="32"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
