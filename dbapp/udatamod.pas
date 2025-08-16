@@ -35,6 +35,9 @@ implementation
 
 {$R *.lfm}
 
+{
+source code from here: https://wiki.freepascal.org/SQLite
+}
 procedure RefreshADatasetAfterInsert(pDataSet: TSQLQuery);
 //This procedure refreshes a dataset and positions cursor to last record
 //To be used only if DataSet is guaranteed to be sorted by an autoincrement primary key
@@ -45,6 +48,7 @@ begin
   vUpdateStatus := pDataset.UpdateStatus;
   pDataset.ApplyUpdates;
   vLastID:=(pDataSet.DataBase as TSQLite3Connection).GetInsertID;
+  // the refresh will not happen because update status <> inserted!!
   //if vUpdateStatus = usInserted then
   begin
     pDataset.Refresh;
