@@ -2,3 +2,10 @@ What started as a tutorial video turns into raw coding after getting an unexpect
 
 Database
 The database (mydatabase.db) is needed, and you will need to change the path to the database (in the database connection component within the datamodule) if you want to actually run the program.
+
+Code
+👉 https://youtu.be/0gyg05GgnNk
+
+Resources
+GitHub code: https://github.com/SilverCoderInPascal/fpc/edit/main/dbapp/
+SQLite with Free Pascal Wiki: https://wiki.freepascal.org/SQLite
