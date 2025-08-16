@@ -1,0 +1,154 @@
+object CarsDataMod: TCarsDataMod
+  OnDestroy = DataModuleDestroy
+  OldCreateOrder = False
+  Height = 253
+  HorizontalOffset = 283
+  VerticalOffset = 250
+  Width = 502
+  object SQLite3Connection1: TSQLite3Connection
+    Connected = True
+    LoginPrompt = False
+    DatabaseName = '/home/tim/projects/fpc/database/mydatabase.db'
+    KeepConnection = False
+    Transaction = SQLTransaction1
+    HostName = '127.0.0.1'
+    AlwaysUseBigint = False
+    Left = 64
+    Top = 32
+  end
+  object SQLTransaction1: TSQLTransaction
+    Active = False
+    Database = SQLite3Connection1
+    Options = [stoUseImplicit]
+    Left = 176
+    Top = 32
+  end
+  object qrySqlCmd: TSQLQuery
+    IndexName = 'DEFAULT_ORDER'
+    MaxIndexesCount = 4
+    FieldDefs = <    
+      item
+        Name = 'film_id'
+        DataType = ftInteger
+        Precision = -1
+      end    
+      item
+        Name = 'title'
+        DataType = ftString
+        Precision = -1
+        Size = 255
+      end    
+      item
+        Name = 'description'
+        DataType = ftBlob
+        Precision = -1
+      end    
+      item
+        Name = 'release_year'
+        DataType = ftString
+        Precision = -1
+        Size = 4
+      end    
+      item
+        Name = 'language_id'
+        DataType = ftSmallint
+        Precision = -1
+      end    
+      item
+        Name = 'original_language_id'
+        DataType = ftSmallint
+        Precision = -1
+      end    
+      item
+        Name = 'rental_duration'
+        DataType = ftSmallint
+        Precision = -1
+      end    
+      item
+        Name = 'rental_rate'
+        DataType = ftBCD
+        Precision = 4
+        Size = 2
+      end    
+      item
+        Name = 'length'
+        DataType = ftSmallint
+        Precision = -1
+      end    
+      item
+        Name = 'replacement_cost'
+        DataType = ftBCD
+        Precision = 5
+        Size = 2
+      end    
+      item
+        Name = 'rating'
+        DataType = ftString
+        Precision = -1
+        Size = 10
+      end    
+      item
+        Name = 'special_features'
+        DataType = ftString
+        Precision = -1
+        Size = 100
+      end    
+      item
+        Name = 'last_update'
+        DataType = ftDateTime
+        Precision = -1
+      end>
+    Database = SQLite3Connection1
+    Transaction = SQLTransaction1
+    SQL.Strings = (
+      'select * from film'
+    )
+    Left = 176
+    Top = 104
+  end
+  object DataSource1: TDataSource
+    DataSet = qryPermitList
+    Left = 288
+    Top = 184
+  end
+  object qryPermitList: TSQLQuery
+    IndexName = 'DEFAULT_ORDER'
+    MaxIndexesCount = 4
+    FieldDefs = <    
+      item
+        Name = 'permit_id'
+        DataType = ftAutoInc
+        Precision = -1
+      end    
+      item
+        Name = 'rego'
+        DataType = ftString
+        Precision = -1
+        Size = 10
+      end    
+      item
+        Name = 'permit_year'
+        DataType = ftInteger
+        Precision = -1
+      end    
+      item
+        Name = 'vehicle_info'
+        DataType = ftString
+        Precision = -1
+        Size = 20
+      end    
+      item
+        Name = 'vehicle_color'
+        DataType = ftString
+        Precision = -1
+        Size = 20
+      end>
+    Database = SQLite3Connection1
+    Transaction = SQLTransaction1
+    SQL.Strings = (
+      'select * from permit'
+    )
+    Left = 288
+    Top = 104
+  end
+end

@@ -1,0 +1,84 @@
+object Form1: TForm1
+  Left = 291
+  Height = 335
+  Top = 250
+  Width = 466
+  Caption = 'Vehicle Lookup'
+  ClientHeight = 335
+  ClientWidth = 466
+  OnShow = FormShow
+  object btnInsert: TButton
+    Left = 288
+    Height = 25
+    Top = 288
+    Width = 156
+    Anchors = [akRight, akBottom]
+    Caption = 'Insert Test Record'
+    TabOrder = 0
+    OnClick = btnInsertClick
+  end
+  object Edit1: TEdit
+    Left = 24
+    Height = 28
+    Top = 48
+    Width = 176
+    TabOrder = 1
+    Text = 'Edit1'
+  end
+  object btnFind: TButton
+    Left = 208
+    Height = 25
+    Top = 48
+    Width = 75
+    Caption = 'Find'
+    TabOrder = 2
+    OnClick = btnFindClick
+  end
+  object Label1: TLabel
+    Left = 24
+    Height = 16
+    Top = 24
+    Width = 31
+    Caption = 'Rego'
+  end
+  object DBNavigator1: TDBNavigator
+    Left = 24
+    Height = 25
+    Top = 288
+    Width = 241
+    Anchors = [akLeft, akBottom]
+    BevelOuter = bvNone
+    ChildSizing.EnlargeHorizontal = crsScaleChilds
+    ChildSizing.EnlargeVertical = crsScaleChilds
+    ChildSizing.ShrinkHorizontal = crsScaleChilds
+    ChildSizing.ShrinkVertical = crsScaleChilds
+    ChildSizing.Layout = cclLeftToRightThenTopToBottom
+    ChildSizing.ControlsPerLine = 100
+    ClientHeight = 25
+    ClientWidth = 241
+    DataSource = CarsDataMod.DataSource1
+    Options = []
+    TabOrder = 3
+  end
+  object DBGrid1: TDBGrid
+    Left = 24
+    Height = 184
+    Top = 96
+    Width = 420
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    Color = clWindow
+    Columns = <>
+    DataSource = CarsDataMod.DataSource1
+    Options = [dgTitles, dgIndicator, dgColumnResize, dgColumnMove, dgColLines, dgRowLines, dgTabs, dgRowSelect, dgAlwaysShowSelection, dgConfirmDelete, dgCancelOnExit]
+    TabOrder = 4
+  end
+  object btnResetView: TButton
+    Left = 288
+    Height = 25
+    Top = 48
+    Width = 96
+    Caption = 'Reset View'
+    TabOrder = 5
+    OnClick = btnResetViewClick
+  end
+end
