@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="dictionary2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+      </Unit>
+      <Unit>
+        <Filename Value="udictmain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uDictMain"/>
+        <TopLine Value="106"/>
+        <CursorPos X="16" Y="111"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../fpc-trunk/lazarus/lcl/dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="893"/>
+        <CursorPos X="10" Y="904"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../fpc-trunk/fpcsrc/packages/rtl-objpas/src/inc/system.uitypes.pp"/>
+        <UnitName Value="System.UITypes"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="457"/>
+        <CursorPos X="32" Y="463"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../fpc-trunk/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="910"/>
+        <CursorPos X="3" Y="892"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../fpc-trunk/lazarus/lcl/include/control.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="4019"/>
+        <CursorPos Y="4031"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../fpc-trunk/fpcsrc/rtl/objpas/classes/stringl.inc"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="1183"/>
+        <CursorPos X="3" Y="1076"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="26" Column="39" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="73" Column="52" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="53" Column="37" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="47" Column="27" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="21" Column="15" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="49" Column="12" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="48" Column="37" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../fpc-trunk/lazarus/lcl/dialogs.pp"/>
+        <Caret Line="904" Column="10" TopLine="893"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="48" Column="40" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="53" Column="15" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="86" Column="17" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="73" Column="15" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="74" Column="15" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="99" Column="43" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="69" Column="48" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="97" Column="40" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="130" Column="19" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="44" Column="5" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="54" Column="13" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="52" Column="11" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="57" Column="44" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="61" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../fpc-trunk/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="1081" Column="14" TopLine="1076"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../fpc-trunk/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="939" Column="15" TopLine="932"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../fpc-trunk/fpcsrc/rtl/objpas/classes/stringl.inc"/>
+        <Caret Line="719" Column="3" TopLine="718"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../fpc-trunk/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="988" Column="14" TopLine="979"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../fpc-trunk/fpcsrc/rtl/objpas/classes/stringl.inc"/>
+        <Caret Line="1076" Column="3" TopLine="1072"/>
+      </Position>
+      <Position>
+        <Filename Value="udictmain.pas"/>
+        <Caret Line="111" Column="16" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../fpc-trunk/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="1156" Column="10" TopLine="1094"/>
+      </Position>
+      <Position>
+        <Filename Value="../../../fpc-trunk/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <Caret Line="1060" Column="60" TopLine="1002"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
